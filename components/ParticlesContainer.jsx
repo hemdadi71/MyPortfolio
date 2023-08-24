@@ -29,7 +29,7 @@ const ParticlesContainer = () => {
             },
             onhover: {
               enable: true,
-              mode: 'repluse',
+              mode: 'repulse',
             },
             resize: true,
           },
